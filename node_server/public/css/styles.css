@@ -36,10 +36,10 @@ header, main, footer {
 
 h1 {
     font-size: xx-large;
-}
+    opacity: 0.5;}
 h2 {
     font-size: x-large;
-    opacity: 0.65;
+
 }
 
 header nav {
