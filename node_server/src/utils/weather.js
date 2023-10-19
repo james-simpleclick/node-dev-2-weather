@@ -1,4 +1,4 @@
-const util = require('node:util');
+const util = require('util');
 const requestSync = require('postman-request');
 const request = util.promisify(requestSync);
 
